@@ -1,0 +1,7 @@
+name: Bedwars1058-Leave-Delay
+version: '${project.version}'
+main: me.zuyte.leavedelay.Main
+api-version: '1.13'
+authors: [ Zuyte ]
+description: adds leave delay to bedwars quit item
+softdepend: [ Bedwars1058 ]
